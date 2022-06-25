@@ -1,5 +1,3 @@
-# Survive-The-Disasters-Hub
-A Roblox Script
 
 ## Loadstring
 
