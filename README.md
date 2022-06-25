@@ -1,7 +1,9 @@
 
 ## Loadstring
 
-```loadstring(game:HttpGet(('https://raw.githubusercontent.com/gitiliya/Survive-The-Disasters-Hub/main/stdgui.lua'),true))()```
+```
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/gitiliya/Survive-The-Disasters-Hub/main/stdgui.lua'),true))()
+```
 
 ## Recent Updates
 
